@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PasswordBook</string>
+    <string name="type">类型</string>
+    <string name="hint_type">请输入账号类型</string>
+    <string name="account">账号</string>
+    <string name="hint_account">请输入账号</string>
+    <string name="password">密码</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="des">说明</string>
+    <string name="hint_des">请输入描述</string>
+    <string name="add">添加</string>
+    <string name="type_short">类型</string>
+    <string name="finish">完成</string>
+    <string name="in">进入</string>
+</resources>
